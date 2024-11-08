@@ -53,9 +53,6 @@ A lo largo de su historia, el Real Madrid ha tenido jugadores que no solo han de
 
 ## Filosofía
 
-El Real Madrid es conocido por su lema **"¡Hala Madrid y nada más!"**. Esta filosofía de compromiso y lucha constante se refleja en la manera en que el club ha logrado mantenerse a la vanguardia del fútbol mundial, a pesar de los desafíos.
+El Real Madrid es conocido por su lema **"¡Hala Madrid y nada más!"**. Esta filosofía de compromiso y lucha constante se refleja en la manera en que el club ha logrado mantenerse a la vanguardia del fútbol mundial, a pesar de los desafios.
 
-## Conclusión
-
-El Real Madrid sigue siendo uno de los clubes más importantes de la historia del fútbol, con una base de seguidores apasionados en todo el mundo. A lo largo de los años, ha mantenido una cultura de éxito, lucha y excelencia que lo ha llevado a ser un símbolo de fútbol a nivel mundial.
 
