@@ -18,7 +18,7 @@ Soy estudiante de **Técnico Superior en Administración de Sistemas Informátic
 
 ---
 
-## Formación Académica 🎓
+## Formación Académica 
 
 - **2023 - Actualidad**  
   2º año de Técnico Superior en Administración de Sistemas Informáticos en Red, IES Miguel Herrero, Torrelavega  
@@ -35,14 +35,14 @@ Soy estudiante de **Técnico Superior en Administración de Sistemas Informátic
 
 ---
 
-## Experiencia Profesional 💻
+## Experiencia Profesional 
 
 - **Técnico Informático en PCBOX** (08/2023 - 09/2023)  
   Durante mis prácticas en PCBOX, desarrollé mis habilidades en mantenimiento y montaje de ordenadores, además de brindar atención al cliente. Esta experiencia me ayudó a entender mejor las necesidades de los usuarios y cómo resolver problemas de hardware de manera efectiva.
 
 ---
 
-## ¿Cuál es mi objetivo? 🎯
+## ¿Cuál es mi objetivo? 
 
 Mi gran sueño es especializarme en **seguridad informática** y contribuir a proteger los sistemas y datos en las empresas. Busco oportunidades que me permitan aprender y aplicar mis conocimientos para marcar una diferencia en este apasionante campo.
 
